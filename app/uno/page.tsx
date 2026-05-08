@@ -3,7 +3,7 @@ export default function Uno(){
   return(
     <div>
    
-<Props nombre="Este es un props veneco"/>
+<Props nombre="Este es un props venecoo"/>
     </div>
   );
 }
